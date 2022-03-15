@@ -1,7 +1,7 @@
-<h2>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pkacper04&count_private=true&theme=radical&border_radius=50%)   &nbsp;&nbsp;&nbsp;    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pkacper04&count_private=true&theme=radical&border_radius=50%)](https://github.com/anuraghazra/github-readme-stats)
 
-</h2>
+
 Hi, I’m Pkacper04
 I make programs in python, and I hope to study more about this programming language.
 My apps are for sure easy to make and have a lot of problems, but this helps me to learn more and more and what to improve.
