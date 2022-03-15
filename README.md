@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pkacper04)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Hi, I’m Pkacper04
 I make programs in python, and I hope to study more about this programming language.
 My apps are for sure easy to make and have a lot of problems, but this helps me to learn more and more and what to improve.
