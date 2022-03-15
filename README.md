@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pkacper04&count_private=true&theme=radical&border_radius=50%&font=300px)   &nbsp;&nbsp;&nbsp;    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pkacper04&count_private=true&theme=radical&border_radius=50%)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pkacper04&count_private=true&theme=radical&border_radius=50%& width=400px)   &nbsp;&nbsp;&nbsp;    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pkacper04&count_private=true&theme=radical&border_radius=50%)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Hi, I’m Pkacper04
