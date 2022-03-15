@@ -1,12 +1,5 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pkacper04&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pkacper04&repo=convoychat" />
-</a>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pkacper04&count_private=true&theme=radical&border_radius=50%&font_size=30px)   &nbsp;&nbsp;&nbsp;    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pkacper04&count_private=true&theme=radical&border_radius=50%)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pkacper04&count_private=true&theme=radical&border_radius=50%&include_all_commits=true)   &nbsp;&nbsp;&nbsp;    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pkacper04&count_private=true&theme=radical&border_radius=50%)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Hi, I’m Pkacper04
